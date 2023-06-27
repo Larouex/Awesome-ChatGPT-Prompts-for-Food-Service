@@ -12,3 +12,4 @@ cryptography
 wifi
 dataclasses
 openai
+semantic_kernel
